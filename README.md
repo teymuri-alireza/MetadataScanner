@@ -1,4 +1,7 @@
 # MetadataScanner
+
+**⚠️ This project is archived and no longer maintained.**
+
 A simple **metadata scanner** written in C++ with both **CLI** and **Qt GUI**.
 
 ## Build Instructions
